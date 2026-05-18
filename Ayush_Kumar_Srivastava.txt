@@ -1,0 +1,5 @@
+My name is Ayush Kumar Srivastava and I am currently pursuing B.Tech in Information Technology at RGIPT with a CGPA of 8.59. Along with that, I am also pursuing a BS in Data Science from IIT Madras.
+
+I am highly interested in backend systems, data-driven applications, and AI-based technologies. Recently, I worked as a Research Intern at IIT Bhubaneswar where I developed Python-based data processing pipelines and worked with structured datasets, validation workflows, and analytics systems using Pandas and JSON-based data processing.
+
+I have also built projects like an AI Smart Travel Planner where I worked on APIs, travel datasets, backend workflows, and optimization logic. I enjoy solving real-world problems using technology, especially systems involving analytics, automation, and intelligent decision-making.
